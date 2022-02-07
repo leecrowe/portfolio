@@ -15,18 +15,18 @@
 
 ### 📲 Read some of my most recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to EasilManage/Install Webdrivers for Selenium](https://lee-rowe.medium.com/how-to-easilmanage-install-webdrivers-for-selenium-c0c7060c8e6f?source=rss-408222bfa499------2)
 - [Scraping Websites Using Python](https://medium.com/analytics-vidhya/scraping-websites-using-python-beautiful-soup-selenium-scrapy-82c7196b8490?source=rss-408222bfa499------2)
 - [Programming An Auto Tweeting Bot Using Tweepy and Beautiful Soup 4](https://medium.com/analytics-vidhya/programming-an-auto-tweeting-bot-using-tweepy-and-beautiful-soup-4-bed5558245dc?source=rss-408222bfa499------2)
 - [Generating Your Own Awesome QR Codes Using Python](https://medium.com/analytics-vidhya/generating-your-own-awesome-qr-codes-using-python-4d614f44f57d?source=rss-408222bfa499------2)
 - [5 Useful Tips and Tricks You Will Want to Know When Using Python — part 4](https://python.plainenglish.io/5-useful-tips-and-tricks-you-will-want-to-know-when-using-python-part-4-55e91eb1fcde?source=rss-408222bfa499------2)
-- [5 Useful Tips and Tricks You Will Want to Know When Using Python — part 3](https://medium.com/nerd-for-tech/5-useful-tips-and-tricks-you-will-want-to-know-when-using-python-part-3-6ff6e6a40d8b?source=rss-408222bfa499------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leecrowe&layout=compact)
 
-
+![Views](https://komarev.com/ghpvc/?username=leecrowe&color=blue)
 
 ## Technical Skills and Tools:
 
