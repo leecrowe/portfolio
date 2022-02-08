@@ -15,7 +15,7 @@
 
 ### 📲 Read some of my most recent blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to EasilManage/Install Webdrivers for Selenium](https://lee-rowe.medium.com/how-to-easilmanage-install-webdrivers-for-selenium-c0c7060c8e6f?source=rss-408222bfa499------2)
+- [Easily Manage/Install Webdrivers for Selenium](https://lee-rowe.medium.com/how-to-easilmanage-install-webdrivers-for-selenium-c0c7060c8e6f?source=rss-408222bfa499------2)
 - [Scraping Websites Using Python](https://medium.com/analytics-vidhya/scraping-websites-using-python-beautiful-soup-selenium-scrapy-82c7196b8490?source=rss-408222bfa499------2)
 - [Programming An Auto Tweeting Bot Using Tweepy and Beautiful Soup 4](https://medium.com/analytics-vidhya/programming-an-auto-tweeting-bot-using-tweepy-and-beautiful-soup-4-bed5558245dc?source=rss-408222bfa499------2)
 - [Generating Your Own Awesome QR Codes Using Python](https://medium.com/analytics-vidhya/generating-your-own-awesome-qr-codes-using-python-4d614f44f57d?source=rss-408222bfa499------2)
@@ -37,15 +37,15 @@
 ![Anaconda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 ![Powershell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white)
-![Pandas](https://camo.githubusercontent.com/f737c8a9e60949e59f80fcca0b0019df76efb3c8ae56d38736bb93e44b447000/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f70616e6461732d2532333135303435382e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d70616e646173266c6f676f436f6c6f723d7768697465)
 ![NumPy](https://camo.githubusercontent.com/a1c5e9056e3be1e1058d8517b025af60f61f75395a78245776db71a7703aff9c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e756d70792d2532333031333234332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e756d7079266c6f676f436f6c6f723d7768697465)
+![Pandas](https://camo.githubusercontent.com/f737c8a9e60949e59f80fcca0b0019df76efb3c8ae56d38736bb93e44b447000/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f70616e6461732d2532333135303435382e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d70616e646173266c6f676f436f6c6f723d7768697465)
 ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
 ![SciPy](https://camo.githubusercontent.com/e70497c8ce44be13c11100d9ca6cd835a78ef716df5b4385c44ada096dec357a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53636950792d2532333043353541352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7363697079266c6f676f436f6c6f723d257768697465)
 ![scikit-learn](https://camo.githubusercontent.com/5e8b6493343a841ed161f1862e7de688f67ba8809ad0a76a8f04af618ab2c3bf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7363696b69742d2d6c6561726e2d2532334637393331452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7363696b69742d6c6561726e266c6f676f436f6c6f723d7768697465)
 ![Keras](https://camo.githubusercontent.com/96796a43b2c70f9c57f3ad251efd2073b828ab3037e4af502c7c409f9564d2b7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4b657261732d2532334430303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d4b65726173266c6f676f436f6c6f723d7768697465)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://camo.githubusercontent.com/fec001b73f0253a3b7036f8cd5135d35797f0db64e9399903fc62e588e15ef43/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656e736f72466c6f772d2532334646364630302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d54656e736f72466c6f77266c6f676f436f6c6f723d7768697465)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
