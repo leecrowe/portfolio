@@ -15,11 +15,11 @@
 
 ### 📲 Read some of my most recent blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Easily Manage/Install Webdrivers for Selenium](https://lee-rowe.medium.com/how-to-easilmanage-install-webdrivers-for-selenium-c0c7060c8e6f?source=rss-408222bfa499------2)
+- [The Tools Pandas Provides For EDA](https://python.plainenglish.io/the-tools-pandas-provides-for-eda-fe2cf33b3ae4?source=rss-408222bfa499------2)
+- [NASA’s James Webb Space Telescope Sees Its First Star](https://lee-rowe.medium.com/nasas-james-webb-space-telescope-sees-its-first-star-36d2bcdec202?source=rss-408222bfa499------2)
+- [5 Useful Tips and Tricks You Will Want to Know When Using Python — part 5](https://medium.com/nerd-for-tech/5-useful-tips-and-tricks-you-will-want-to-know-when-using-python-part-5-3f9afaf1bad0?source=rss-408222bfa499------2)
+- [How to EasilManage/Install Webdrivers for Selenium](https://medium.com/geekculture/how-to-easilmanage-install-webdrivers-for-selenium-c0c7060c8e6f?source=rss-408222bfa499------2)
 - [Scraping Websites Using Python](https://medium.com/analytics-vidhya/scraping-websites-using-python-beautiful-soup-selenium-scrapy-82c7196b8490?source=rss-408222bfa499------2)
-- [Programming An Auto Tweeting Bot Using Tweepy and Beautiful Soup 4](https://medium.com/analytics-vidhya/programming-an-auto-tweeting-bot-using-tweepy-and-beautiful-soup-4-bed5558245dc?source=rss-408222bfa499------2)
-- [Generating Your Own Awesome QR Codes Using Python](https://medium.com/analytics-vidhya/generating-your-own-awesome-qr-codes-using-python-4d614f44f57d?source=rss-408222bfa499------2)
-- [5 Useful Tips and Tricks You Will Want to Know When Using Python — part 4](https://python.plainenglish.io/5-useful-tips-and-tricks-you-will-want-to-know-when-using-python-part-4-55e91eb1fcde?source=rss-408222bfa499------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
@@ -35,8 +35,8 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 ![Powershell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 ![NumPy](https://camo.githubusercontent.com/a1c5e9056e3be1e1058d8517b025af60f61f75395a78245776db71a7703aff9c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e756d70792d2532333031333234332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e756d7079266c6f676f436f6c6f723d7768697465)
 ![Pandas](https://camo.githubusercontent.com/f737c8a9e60949e59f80fcca0b0019df76efb3c8ae56d38736bb93e44b447000/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f70616e6461732d2532333135303435382e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d70616e646173266c6f676f436f6c6f723d7768697465)
 ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
