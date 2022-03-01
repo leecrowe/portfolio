@@ -2,7 +2,7 @@
 
 ## A passionate Data Scientist/Engineer from Michigan
 
-## I'm currently working as Data Operations Engineer at BOTAŞ
+## I'm currently working as Data Operations Manager at BOTAŞ
 
 ### 🌱 I just finished studying Data/Computer Science and Machine Learning full time
 
