@@ -1,8 +1,8 @@
 # Hi 👋, I'm [Lee Rowe](https://leecrowe.github.io/portfolio/)
 
-## I'm currently working as Data Operations Engineer at BOTAŞ
-
 ## A passionate Data Scientist/Engineer from Michigan
+
+## I'm currently working as Data Operations Engineer at BOTAŞ
 
 ### 🌱 I just finished studying Data/Computer Science and Machine Learning full time
 
