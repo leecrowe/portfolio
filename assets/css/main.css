@@ -2716,3 +2716,22 @@ input, select, textarea {
 .project-footer {
   margin-top: 1rem;
 }
+
+/* Make the hero/cover section fill the screen */
+#main > section.one.cover,
+#top.one.cover {
+  min-height: 100vh; /* full viewport height */
+  background-size: cover;
+  background-position: center center;
+}
+
+#top.one.cover {
+  position: relative;
+}
+
+#top.one.cover footer {
+  position: absolute;
+  bottom: 2em;   /* distance from bottom of section */
+  left: 50%;
+  transform: translateX(-50%);
+}
